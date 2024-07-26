@@ -8,8 +8,8 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
-   cd ваш_репозиторий
+   https://github.com/tuychiyev31/symfony-user-api.git
+   cd symfony-user-api
 
 
 Настройте подключение к базе данных. Откройте файл index.php и измените следующие параметры в функции getDbConnection в соответствии с вашими данными:
